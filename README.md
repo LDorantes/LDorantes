@@ -1,11 +1,54 @@
-- 👋 Hi, I’m @LDorantes
-- 👀 I’m interested in ...
-- 🌱 Currently I'm learning some programming languages. I am pursuing a degree in software and computer systems engineering, and I am discovering my place in the world of technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, this is my personal E-mail leodoor2@gmail.com
-- ⚡ Fun fact, i'm a foodie
 
-<!---
-LDorantes/LDorantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Leonardo Dorantes
+
+### Software Engineer | Founder & CEO at Kerentic
+
+Software Engineer specializing in web development, backend systems, and software solutions.
+
+Focused on building reliable, maintainable, and scalable applications through clean architecture, efficient development practices, and continuous improvement.
+
+---
+
+## About Me
+
+I'm a Software Engineer with hands-on experience in full-stack development, database management, system optimization, and workflow automation.
+
+My professional interests include software architecture, backend engineering, and developing technology-driven solutions to real-world challenges.
+
+I'm also the **Founder & CEO of Kerentic**, where I pursue my entrepreneurial vision of creating meaningful technology solutions.
+
+I value clean code, collaborative engineering, problem-solving, and building software with long-term maintainability in mind.
+
+## Tech Stack
+
+| Area | Technologies |
+|------|-------------|
+| Languages | PHP, JavaScript, Python |
+| Frontend | React, HTML5, CSS3 |
+| Backend | PHP, Python, REST APIs |
+| Databases | MySQL, PostgreSQL |
+| Tools & DevOps | Git, GitHub, Docker |
+| Practices | Agile, Scrum, Version Control |
+
+## Featured Projects
+
+Selected software engineering projects and technical contributions will be featured here.
+
+Explore my repositories to see my work in software development, backend systems, and web applications.
+
+[Explore My Repositories](https://github.com/LDorantes?tab=repositories)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LDorantes&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LDorantes&layout=compact&hide_border=true&theme=transparent)
+
+## Connect
+
+I'm open to connecting with software engineers, technology professionals, and people interested in building impactful software solutions.
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-dorantes-9a5b491a0/)
+- [GitHub](https://github.com/LDorantes)
+- [Email](mailto:leodoor2@gmail.com)
+  
